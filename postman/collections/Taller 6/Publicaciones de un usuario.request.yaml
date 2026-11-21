@@ -1,6 +1,0 @@
-$kind: http-request
-url: http://localhost:3000/api/posts?userId=2
-method: GET
-queryParams:
-  userId: "2"
-order: 4000
